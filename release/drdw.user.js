@@ -3,6 +3,8 @@
 // @namespace    insell.link
 // @version      1.0.0
 // @description  Widens the name input dialogs (Rename, New folder, etc.) on Google Drive and Google Docs.
+// @downloadURL  https://github.com/insell824/tm-wide-modal-for-gdrive/raw/refs/heads/main/release/drdw.user.js
+// @updateURL    https://github.com/insell824/tm-wide-modal-for-gdrive/raw/refs/heads/main/release/drdw.user.js
 // @match        https://drive.google.com/*
 // @match        https://docs.google.com/*
 // @run-at       document-idle
