@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Drive Rename Dialog Widener
-// @namespace    drive-rename-plus
+// @namespace    insell.link
 // @version      1.0.0
 // @description  Widens the name input dialogs (Rename, New folder, etc.) on Google Drive and Google Docs.
 // @match        https://drive.google.com/*
